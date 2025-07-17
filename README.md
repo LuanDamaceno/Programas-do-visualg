@@ -1,2 +1,2 @@
 # Programas-do-visualg
-Exercícios propostos por Gustavo Guanabara.
+A grande maioria desses programas são exercícios propostos pelo Gustavo Guanabara.
